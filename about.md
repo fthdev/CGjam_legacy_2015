@@ -1,21 +1,13 @@
 ---
 layout: default
-title: About Emerald
+title: A Word about jamming
 ---
 ## About
-Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
+Covent Garden Raspberry Jam began on the 28.11.14 and is part of the phenomenal movement of jams springing up all around the world. The jams are simply an opportunity for the young and the young at heart to share an enthusiasm for creating and making with a common platform, in this case the raspberry pi.
+For further details on jams, please visit the [old raspberry jam site](http://raspberryjam.org.uk/).
+Or maybe even consider setting up your own. The new and juicier site can be found wrapped with in the number one go to source for raspberry pi [raspberrypi.org](http://www.raspberrypi.org/jam/)
 
-For further details on Emerald, please visit the [repository on Github](https://github.com/KingFelix/emerald/).
 
-![Emerald](/img/Emerald01.png "Emerald")
-
-### Setup
-Emerald may be installed by simply downloading the .zip folder frome the [repository on Github](https://github.com/KingFelix/emerald/archive/master.zip).
-
-After extracting the content from the folder into the selected directory, you can type ``jekyll serve`` from the terminal, than open your browser to ``0.0.0.0:4000/emerald/`` and you will find there.
-
-Additionally it is possible to fork the repository and using Github Pages as hosting. By following this way it will enough change the ``baseurl`` value into the ``_config.yml`` file, with the directory name of your project (for example /blog) or with a simply "/" (slash) if you want install Emerald in the root. 
-
-Last but not last: the [Jekyll documentation](http://jekyllrb.com) is the best starting point!
-
-Enjoy!
+### Complements to the chef
+This site is forked from Emerald, you can find it here 
+Emerald may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/KingFelix/emerald/).
