@@ -13,4 +13,10 @@ title: Where to buy pi
 
 [Inventors of some fabulous pi cases](http://shop.pimoroni.com/)
 
+---
+
+footer
+
+---
+
 
