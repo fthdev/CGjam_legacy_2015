@@ -1,13 +1,19 @@
 ---
 title: Where to buy pi
+
+layout: default
 ---
 
 [First commercial supporter of the jam - Pi Supply.](https://www.pi-supply.com/).
 
-[The home of the amazing cam jam kits] (http://thepihut.com/)
 
-[Supplier of the fabulous soldering kits from jam II] (http://www.pocketmoneytronics.co.uk/)
+[The home of the amazing cam jam kits](http://thepihut.com/)
 
-[Inventors of some fabulous pi cases] (http://shop.pimoroni.com/)
+
+[Supplier of the fabulous soldering kits from jam II](http://www.pocketmoneytronics.co.uk/)
+
+
+[Inventors of some fabulous pi cases](http://shop.pimoroni.com/)
+
 
 
