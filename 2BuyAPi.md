@@ -1,5 +1,7 @@
 ---
 title: Where to buy pi
+
+layout: default
 ---
 
 [First commercial supporter of the jam - Pi Supply.](https://www.pi-supply.com/).
@@ -12,11 +14,5 @@ title: Where to buy pi
 
 
 [Inventors of some fabulous pi cases](http://shop.pimoroni.com/)
-
----
-
-footer
-
----
 
 
