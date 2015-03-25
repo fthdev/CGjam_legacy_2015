@@ -1,6 +1,5 @@
 ---
 title: Where to buy pi
-
 layout: default
 ---
 
@@ -15,5 +14,4 @@ layout: default
 
 [Inventors of some fabulous pi cases](http://shop.pimoroni.com/)
 
-
-
+---
